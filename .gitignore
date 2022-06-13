@@ -1,0 +1,6 @@
+#ignore all .log filters
+*.log
+#ignore all files in any directory named temp
+temp/
+.vscode
+fonty.jpg
